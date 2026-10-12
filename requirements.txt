@@ -1,0 +1,8 @@
+
+streamlit
+pandas
+numpy
+catboost
+lightgbm
+torch
+pytorch-tabnet
